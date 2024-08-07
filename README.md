@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything useful in data analytics
 - 🤔 I’m looking for help with getting more experience
 - 💬 Ask me about anything and I will try to help
-- 📫 How to reach me: kagnaem@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Honest as Always!
 
