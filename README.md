@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and I will try to help
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Honest as Always!
--   Have a look at my below-pinned projects. Only one or two might be shown as I am still working on playing them. More to come!
+-   Have a look at my below-pinned projects. Only one or two might be shown as I am still working on displaying them. More to come!
 
