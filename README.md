@@ -7,7 +7,7 @@ One of my hobbies is learning and sharing knowledge.
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a few data analysis projects using multiple platforms, including: New Zealand International, World Temperature Change, and Yahoo Finanical Report
+- 🔭 I’m currently working on a few data analysis projects using multiple platforms, including: New Zealand International Trade, World Temperature Change, and Yahoo Financial Report
 - 🌱 I’m currently learning advanced Python, R, Tableau and AI
 - 👯 I’m looking to collaborate on anything useful in data analytics
 - 🤔 I’m looking for help with getting more experience
