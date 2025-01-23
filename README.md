@@ -5,7 +5,7 @@ One of my hobbies is learning and sharing knowledge.
 <!--
 **kagnaem/kagnaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Here is some information about me:
 
 - 🔭 I’m currently working on a few data analysis projects using multiple platforms, including: New Zealand International Trade, World Temperature Change, and Yahoo Financial Report
 - 🌱 I’m currently learning advanced Python, R, Tableau and AI
