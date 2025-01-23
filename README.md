@@ -1,6 +1,6 @@
 ## Hi there 👋
-This is Kagna, a data professional having extensive experience in data management and analytics.
-I am open to freelance work related to data.
+This is Kagna, a data professional with extensive data management and analytics experience.
+I am passionate about working with data-related projects and am open to freelance work. 
 One of my hobbies is learning and sharing knowledge.
 <!--
 **kagnaem/kagnaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
