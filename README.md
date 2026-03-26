@@ -1,13 +1,6 @@
-# 📊 Data Analysis Portfolio – Kagna Em
+# 📊 Kagna Em - Data Analyst
 
-Welcome to my data analysis portfolio!  
-I am a Data Analyst with hands-on experience transforming complex datasets into actionable insights using tools such as Power BI, Python, SQL, and Microsoft Fabric.
-
-📄 **[View My CV](#)** *(Add your CV link here)*
-
-This portfolio showcases my projects in data analysis, reporting, forecasting, and data modelling across real-world and applied scenarios.
-
----
+Hi, this is Kagna. I am a Data Analyst with hands-on experience transforming complex datasets into actionable insights using tools such as Power BI, Python, SQL, and Microsoft Fabric.
 
 ## 👩‍💻 About Me
 
@@ -22,6 +15,16 @@ My work focuses on:
 I am continuously developing my skills in cloud platforms, data engineering tools, and advanced analytics.
 
 ---
+
+## Welcome to my data project portfolio!  
+
+📄 **[View My CV](#)** *(Add your CV link here)*
+
+This portfolio showcases my projects in data analysis, reporting, forecasting, and data modelling across real-world and applied scenarios.
+
+---
+
+
 
 ## 🛠️ Tools & Technologies
 
