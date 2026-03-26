@@ -15,10 +15,9 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 ---
 ## 🛠️ Tools & Technologies
 
-- **Data Analysis & Visualisation:** Power BI, Excel, SQL  
-- **Data Processing & Modelling:** Python (Pandas, Prophet), Power Query, Power Pivot, DAX, VBA  
-- **Platforms:** Microsoft Fabric, Azure, Google Cloud  
-- **Systems & Tools:** Microsoft Dynamics 365, GitHub  
+- **Data Analysis & Visualisation:** Power BI (DAX), Excel (Power Query, Power Pivot, Pivot Tables, Advanced Formulas, Macros & VBA), SQL, Python  
+- **Data Management & Quality:** Data cleaning, validation, consolidation, reconciliation, transformation, and error checking  
+- **Platforms & Systems:** Microsoft Fabric, Azure, Microsoft Dynamics 365, SAP S/4HANA, Shopify, POS systems, Google Cloud  
 
 ---
 
