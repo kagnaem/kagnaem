@@ -1,4 +1,4 @@
-## Kagna Em - Data Analyst 
+# Kagna Em - Data Analyst 
 ## About Me and My Portfolio
 This is Kagna, a data professional with extensive data management and analytics experience.
 I am passionate about working with data-related projects and am open to freelance work. 
