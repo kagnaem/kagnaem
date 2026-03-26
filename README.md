@@ -18,8 +18,7 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 
 - **Data Analysis & BI:** Power BI (DAX, Power Query), Excel (Power Pivot, Advanced Formulas), Looker Studio, SQL, Python 
 
-- **Data Platforms & Systems:** Microsoft Fabric, Azure, SQL Server, BigQuery, Microsoft Access, Microsoft Dynamics 365, Salesforce, HubSpot, SAP  
-
+- **Data Platforms & Systems:** Microsoft Fabric, Azure, SQL Server, BigQuery, Microsoft Access, Microsoft Dynamics 365, SAP  
 - **Data Workflow & Collaboration:** API integration, GitHub, SharePoint, Google Workspace, Jira, Trello, ClickUp, Zapier  
 
 - **Emerging & Applied AI:** Generative AI for data analysis, automation, and responsible data use
