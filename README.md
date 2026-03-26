@@ -16,7 +16,7 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 
 ## 🛠️ Tools & Technologies
 
-- **Data Analysis & BI:** Power BI (DAX, Power Query), Excel (Power Pivot, Advanced Formulas), Looker Studio, SQL, Python (pandas, Prophet)  
+- **Data Analysis & BI:** Power BI (DAX, Power Query), Excel (Power Pivot, Advanced Formulas), Looker Studio, SQL, Python 
 
 - **Data Platforms & Systems:** Microsoft Fabric, Azure, SQL Server, BigQuery, Microsoft Access, Microsoft Dynamics 365, Salesforce, HubSpot, SAP  
 
