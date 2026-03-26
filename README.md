@@ -13,6 +13,14 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 💼 **[LinkedIn](https://www.linkedin.com/in/kagna-em)**  
 
 ---
+## 🛠️ Tools & Technologies
+
+- **Data Analysis & Visualisation:** Power BI, Excel, SQL  
+- **Data Processing & Modelling:** Python (Pandas, Prophet), Power Query, Power Pivot, DAX, VBA  
+- **Platforms:** Microsoft Fabric, Azure, Google Cloud  
+- **Systems & Tools:** Microsoft Dynamics 365, GitHub  
+
+---
 
 ## 📊 Data Project Portfolio
 
@@ -23,15 +31,6 @@ This portfolio showcases selected projects in:
 - Workflow and data quality improvement  
 
 Each project reflects how data can be used to solve real-world problems and support better decision-making.
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Data Analysis & Visualisation:** Power BI, Excel, SQL  
-- **Data Processing & Modelling:** Python (Pandas, Prophet), Power Query, Power Pivot, DAX, VBA  
-- **Platforms:** Microsoft Fabric, Azure, Google Cloud  
-- **Systems & Tools:** Microsoft Dynamics 365, GitHub  
 
 ---
 
