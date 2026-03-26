@@ -10,6 +10,7 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 
 📄 **[View My CV](#)**  
 🌐 **[View My Portfolio](https://sites.google.com/view/kagna-dataprojects/home)**  
+<a href="https://www.linkedin.com/in/kagna-em" target="_blank"><b>📄 LinkedIn</b></a>
 💼 **[LinkedIn](https://www.linkedin.com/in/kagna-em)**  
 
 ---
