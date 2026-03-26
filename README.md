@@ -1,71 +1,70 @@
-# 📊 Kagna Em - Data Analyst
+# 👩‍💻 Kagna Em – Data Analyst 📊
 
-Hi, this is Kagna. I am a Data Analyst with hands-on experience transforming complex datasets into actionable insights using tools such as Power BI, Python, SQL, and Microsoft Fabric.
+Hi, I’m Kagna — a Data Analyst passionate about turning complex data into clear, actionable insights.
 
-## 👩‍💻 About Me
+I bring hands-on experience across nonprofit, legal, and commercial environments, where I use data to support decision-making, improve processes, and uncover meaningful patterns.
 
-I have experience working with data in nonprofit, legal, and commercial environments, where I support decision-making through data-driven insights.
-
-My work focuses on:
-- Data cleaning and transformation  
-- Dashboard development and reporting  
-- Data modelling and forecasting  
-- Improving data quality and workflows  
-
-I am continuously developing my skills in cloud platforms, data engineering tools, and advanced analytics.
+💡 I enjoy working at the intersection of **data, business impact, and real-world outcomes**.
 
 ---
 
-## Welcome to my data project portfolio!  
-
-📄 **[View My CV](#)** *(Add your CV link here)*
-
-This portfolio showcases my projects in data analysis, reporting, forecasting, and data modelling across real-world and applied scenarios.
+📄 **[View My CV](#)**  
+🌐 **[View My Portfolio](https://sites.google.com/view/kagna-dataprojects/home)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/kagna-em)**  
 
 ---
 
+## 📊 Data Project Portfolio
 
+This portfolio showcases selected projects in:
+- Data analysis and reporting  
+- Forecasting and predictive modelling  
+- Data modelling and transformation  
+- Workflow and data quality improvement  
+
+Each project reflects how data can be used to solve real-world problems and support better decision-making.
+
+---
 
 ## 🛠️ Tools & Technologies
 
-- **Data Visualisation:** Power BI, Excel  
-- **Programming:** Python (Pandas, Prophet)  
-- **Data Handling:** SQL, Power Query  
+- **Data Analysis & Visualisation:** Power BI, Excel, SQL  
+- **Data Processing & Modelling:** Python (Pandas, Prophet), Power Query, Power Pivot, DAX, VBA  
 - **Platforms:** Microsoft Fabric, Azure, Google Cloud  
-- **Other Tools:** DAX, GitHub, Microsoft Dynamics 365  
+- **Systems & Tools:** Microsoft Dynamics 365, GitHub  
 
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
-### 📌 Donation Forecasting & Reporting
+### 📌 Donation Forecasting & Reporting  
 **Tools:** Python (Prophet), Power BI, Microsoft Fabric  
 
 - Built a forecasting model to analyse donation trends and predict future performance  
-- Developed interactive Power BI dashboards for reporting and insights  
+- Developed interactive dashboards to support planning and reporting  
 - Designed data pipelines in Microsoft Fabric for automated data refresh  
 
 👉 [View Project](#)
 
 ---
 
-### 📌 Data Workflow & Reporting Improvement
+### 📌 Data Workflow & Reporting Improvement  
 **Tools:** Excel, Power Query  
 
-- Designed a data workflow to clean, standardise, and validate datasets  
+- Designed a structured workflow to clean, standardise, and validate data  
 - Improved reporting consistency and reduced manual processing  
-- Implemented validation checks to improve data accuracy  
+- Strengthened data accuracy through validation and reconciliation techniques  
 
 👉 [View Project](#)
 
 ---
 
-### 📌 Research Data Analysis (Policy & Social Impact)
+### 📌 Research Data Analysis (Policy & Social Impact)  
 **Tools:** Excel, Research Methods  
 
 - Conducted secondary data analysis for a UNICEF-supported study  
 - Integrated multiple data sources to generate insights on social outcomes  
-- Produced structured findings to support policy recommendations  
+- Supported evidence-based policy recommendations  
 
 👉 [View Project](#)
 
@@ -73,26 +72,38 @@ This portfolio showcases my projects in data analysis, reporting, forecasting, a
 
 ## 🔍 What I Am Exploring
 
-- Advanced Power BI and DAX for scalable reporting  
-- Microsoft Fabric for data pipelines and end-to-end analytics  
+- Advanced Power BI and DAX for scalable and efficient reporting  
+- Microsoft Fabric for end-to-end data pipelines and analytics  
 - Data engineering concepts and big data workflows  
 - Cloud-based data platforms (Azure, Google Cloud)  
+- Ethical AI and cybersecurity in data and cloud environments  
 
 ---
 
 ## 🎯 Goals
 
-I am actively working toward opportunities as a **Data Analyst** or contributing to **data-driven and big data projects**, where I can apply my skills, continue learning, and support impactful decision-making.
+I am actively working toward opportunities as a **Data Analyst**, while contributing to **data-driven and big data projects**.
+
+I’m particularly interested in roles where I can:
+- Apply data to solve real business or social problems  
+- Work with modern data platforms and cloud technologies  
+- Continue growing in analytics, data engineering, and responsible data practices  
 
 ---
 
-## 📫 Connect with Me
+## 🌍 Beyond Data
+
+- Bilingual Interpreter – supporting communication across diverse communities  
+- Member – Upper Harbour Ethnic Advisory Group, contributing to community engagement and inclusion  
+
+These experiences strengthen my ability to **understand people, communicate insights clearly, and work across diverse stakeholders**.
+
+---
+
+## 📫 Let’s Connect
 
 - 📧 Email: kagnaem@gmail.com  
-- 💼 LinkedIn: *(Add your link)*  
-- 🌐 Portfolio: *(Add your portfolio link)*  
 
 ---
 
-⭐ *Thank you for visiting my portfolio!*
-
+⭐ *Thanks for visiting my GitHub portfolio — feel free to explore my projects!*
