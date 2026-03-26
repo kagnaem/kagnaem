@@ -13,11 +13,16 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 💼 **[LinkedIn](https://www.linkedin.com/in/kagna-em)**  
 
 ---
+
 ## 🛠️ Tools & Technologies
 
-- **Data Analysis & Visualisation:** Power BI (DAX), Excel (Power Query, Power Pivot, Pivot Tables, Advanced Formulas, Macros & VBA), SQL, Python  
-- **Data Management & Quality:** Data cleaning, validation, consolidation, reconciliation, transformation, and error checking  
-- **Platforms & Systems:** Microsoft Fabric, Azure, Microsoft Dynamics 365, SAP S/4HANA, Shopify, POS systems, Google Cloud  
+- **Data Analysis & BI:** Power BI (DAX, Power Query), Excel (Power Pivot, Advanced Formulas), Looker Studio, SQL, Python (pandas, Prophet)  
+
+- **Data Platforms & Systems:** Microsoft Fabric, Azure, SQL Server, BigQuery, Microsoft Access, Microsoft Dynamics 365, Salesforce, HubSpot, SAP  
+
+- **Data Workflow & Collaboration:** API integration, GitHub, SharePoint, Google Workspace, Jira, Trello, ClickUp, Zapier  
+
+- **Emerging & Applied AI:** Generative AI for data analysis, automation, and responsible data use
 
 ---
 
