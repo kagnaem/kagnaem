@@ -47,8 +47,7 @@ Each project reflects how data can be used to solve real-world problems and supp
 - Build a time series forecasting model using ARIMA
 - Analyse trends and predict future sales based on historical data 
 
-👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/Sales%20Forecasting%20%26%20Insights%20using%20Azure%20SQL%20and%20ARIMA.html)**
-👉 **[View Python file](https://github.com/kagnaem/Portfolio/blob/main/Sales%20Forecasting%20%26%20Insights%20using%20Azure%20SQL%20and%20ARIMA.ipynb)**
+👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/Sales%20Forecasting%20%26%20Insights%20using%20Azure%20SQL%20and%20ARIMA.ipynb)**
 
 ---
 ### 📌 Data Workflow & Reporting Improvement  
