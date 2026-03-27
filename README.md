@@ -1,6 +1,6 @@
 # 👩‍💻 Kagna Em – Data Analyst 📊
 
-Hi, I’m Kagna — a Data Analyst passionate about turning complex data into clear, actionable insights.
+Hi, I’m Kagna — a Data Analyst passionate about turning large, complex data into clear, actionable insights.
 
 I bring hands-on experience across nonprofit, legal, and commercial environments, where I use data to support decision-making, improve processes, and uncover meaningful patterns.
 
