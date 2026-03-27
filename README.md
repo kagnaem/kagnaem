@@ -35,7 +35,7 @@ Each project reflects how data can be used to solve real-world problems and supp
 - Developed interactive dashboards to support planning and reporting  
 - Designed data pipelines in Microsoft Fabric for automated data refresh  
 
-👉 [View Project](#)
+👉 [View Project]([(https://github.com/kagnaem/Portfolio/blob/main/DATA%20INSIGHTS-NOT%20FOR%20PROFIT%20ORGANIZATION.pdf)
 
 ---
 
