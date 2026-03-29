@@ -50,6 +50,13 @@ Each project reflects how data can be used to solve real-world problems and supp
 👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/Sales%20Forecasting%20%26%20Insights%20using%20Azure%20SQL%20and%20ARIMA.ipynb)**
 
 ---
+### 📌Exploratory Data Analysis with Python & Visualisation 
+
+Analysed data sourced from Excel Spreadsheets and integrated multiple tables (e.g., Sales, Invoice, Product). Performed cleaning, transformation, and visualisation using Python (Pandas, Matplotlib, Seaborn) to identify trends, distributions, and correlations
+
+👉 **[View Project file]()
+---
+
 ### 📌 Data Workflow & Reporting Improvement  
 **Tools:** Excel, Power Query  
 
