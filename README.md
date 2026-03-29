@@ -54,7 +54,8 @@ Each project reflects how data can be used to solve real-world problems and supp
 
 Analysed data sourced from Excel Spreadsheets and integrated multiple tables (e.g., Sales, Invoice, Product). Performed cleaning, transformation, and visualisation using Python (Pandas, Matplotlib, Seaborn) to identify trends, distributions, and correlations
 
-👉 **[View Project file]()
+👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/EDA_with_Sales_Dataset_using_Pandas_and%20Matplotlib_Seaborn.ipynb)**
+
 ---
 
 ### 📌 Data Workflow & Reporting Improvement  
