@@ -52,7 +52,7 @@ Each project reflects how data can be used to solve real-world problems and supp
 ---
 ### 📌Exploratory Data Analysis with Python & Visualisation 
 
-Analysed data sourced from Excel Spreadsheets and integrated multiple tables (e.g., Sales, Invoice, Product). Performed cleaning, transformation, and visualisation using Python (Pandas, Matplotlib, Seaborn) to identify trends, distributions, and correlations
+This project highlights EDA using Python for basic operations, Pandas for data manipulation, and Matplotlib/Seaborn for visualizations. It focuses on analyzing data from Excel Spreadsheets and integrated multiple tables (e.g., Sales, Invoice, Product). Performed cleaning, transformation, and visualisation using Python (Pandas, Matplotlib, Seaborn) to identify trends, distributions, and correlations.
 
 👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/EDA_with_Sales_Dataset_using_Pandas_and%20Matplotlib_Seaborn.ipynb)**
 
