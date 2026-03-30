@@ -29,7 +29,7 @@ Each project reflects how data can be used to solve real-world problems and supp
 ## 📁 Featured Projects
 
 ### 📌 Donation Forecasting & Reporting  
-**Tools:** Python (Prophet), Power BI, Microsoft Fabric  
+**Tools:** Python (Prophet), Power BI, Microsoft Fabric, Microsoft Dynamics 365 CRM  
 
 - Built a forecasting model to analyse donation trends and predict future performance  
 - Developed interactive dashboards to support planning and reporting  
