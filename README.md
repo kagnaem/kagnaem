@@ -38,14 +38,14 @@ Each project reflects how data can be used to solve real-world problems and supp
 👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/DATA%20INSIGHTS-NOT%20FOR%20PROFIT%20ORGANIZATION.pdf)**
 
 ---
-### 📌 Sales Forecasting & Insights using Azure SQL and ARIMA  
-**Tools:** Python Notebook,  Microsoft Fabric  
-**This project focuses on extracting, analysing, and forecasting sales data from an Azure SQL Database using Python**
-- Connect to an Azure SQL Database using Python and pyodbc
-- Query and integrate data from Sales, Invoice, and Product tables
-- Perform Exploratory Data Analysis (EDA) to understand patterns and data quality
-- Build a time series forecasting model using ARIMA
-- Analyse trends and predict future sales based on historical data 
+### 📊 Sales Data Analysis and Forecasting
+
+End-to-end analysis of sales data from an Azure SQL Database using Python, covering data extraction, EDA, and time series forecasting.
+
+- Performed **EDA** to identify skewed product distribution and strong sales concentration in the **United Kingdom**  
+- Applied **ARIMA (12,1,1)** for forecasting and evaluated performance using **RMSE**  
+- Added **confidence intervals** to quantify forecast uncertainty  
+- Pareto analysis shows a small number of markets drive the majority of sales  
 
 👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/Sales%20Forecasting%20%26%20Insights%20using%20Azure%20SQL%20and%20ARIMA.ipynb)**
 
