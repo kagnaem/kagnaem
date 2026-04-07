@@ -64,7 +64,7 @@ End-to-end loan risk analysis using Python and PySpark in Microsoft Fabric.
 - Random Forest achieved the best overall performance  
 - Delivered insights to support data-driven lending decisions  
 
-👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)**
+👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/ANZ_Bank_Loan_Prediction.ipynb)**
 
 ---
 
