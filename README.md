@@ -38,14 +38,29 @@ Each project reflects how data can be used to solve real-world problems and supp
 👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/DATA%20INSIGHTS-NOT%20FOR%20PROFIT%20ORGANIZATION.pdf)**
 
 ---
+### 🏡 House Price Prediction (Regression & Model Comparison)
+
+End-to-end analysis of housing data from Azure Blob Storage using Python, covering data extraction, exploratory data analysis (EDA), and predictive modelling.
+
+- Performed **EDA** to identify key drivers of house prices, including **Square_Feet** and **Num_Bedrooms**
+- Visualised relationships using scatter plots, histograms, boxplots, and correlation heatmaps
+- Built and compared **Multiple Linear Regression** and **Random Forest** models
+- Evaluated model performance using **RMSE** and **R²**
+- Identified that **Linear Regression outperformed Random Forest**, indicating largely linear relationships in the dataset
+- Provided recommendations to improve model performance, including additional features and model validation techniques
+
+👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/DATA%20INSIGHTS-NOT%20FOR%20PROFIT%20ORGANIZATION.pdf)**
+---
+
 ### 📊 Sales Data Analysis and Forecasting
 
-End-to-end analysis of sales data from an Azure SQL Database using Python, covering data extraction, EDA, and time series forecasting.
+End-to-end analysis of sales data from an Azure SQL Database using Python, covering data extraction, EDA, and time series forecasting (ARIMA Model).
 
-- Performed **EDA** to identify skewed product distribution and strong sales concentration in the **United Kingdom**  
+- Performed **EDA** to identify skewed product distribution and strong sales concentration in the **United Kingdom**
+- Pareto analysis shows a small number of markets drive the majority of sales 
 - Applied **ARIMA (12,1,1)** for forecasting and evaluated performance using **RMSE**  
 - Added **confidence intervals** to quantify forecast uncertainty  
-- Pareto analysis shows a small number of markets drive the majority of sales  
+ 
 
 👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)**
 
