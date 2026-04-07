@@ -54,6 +54,20 @@ End-to-end analysis of housing data from Azure Blob Storage using Python, coveri
 
 ---
 
+## 🏦 Loan Default Prediction (Classification & Model Comparison)
+
+End-to-end loan risk analysis using Python and PySpark in Microsoft Fabric.
+
+- Conducted EDA to identify key drivers (loan-to-income ratio, interest rate)  
+- Multiple models were implemented, including Logistic Regression, Random Forest, and Gradient Boosting  
+- Evaluated models using accuracy, confusion matrix, and F1-score  
+- Random Forest achieved the best overall performance  
+- Delivered insights to support data-driven lending decisions  
+
+👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)**
+
+---
+
 ### 📊 Sales Data Analysis and Forecasting
 
 End-to-end analysis of sales data from an Azure SQL Database using Python, covering data extraction, EDA, and time series forecasting (ARIMA Model).
