@@ -49,7 +49,7 @@ End-to-end analysis of housing data from Azure Blob Storage using Python, coveri
 - Identified that **Linear Regression outperformed Random Forest**, indicating largely linear relationships in the dataset
 - Provided recommendations to improve model performance, including additional features and model validation techniques
 
-👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/DATA%20INSIGHTS-NOT%20FOR%20PROFIT%20ORGANIZATION.pdf)**
+👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)**
 ---
 
 ### 📊 Sales Data Analysis and Forecasting
