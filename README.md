@@ -47,7 +47,7 @@ End-to-end analysis of sales data from an Azure SQL Database using Python, cover
 - Added **confidence intervals** to quantify forecast uncertainty  
 - Pareto analysis shows a small number of markets drive the majority of sales  
 
-👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/Sales%20Forecasting%20%26%20Insights%20using%20Azure%20SQL%20and%20ARIMA.ipynb)**
+👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)**
 
 ---
 ### 📌Exploratory Data Analysis with Python & Visualisation 
