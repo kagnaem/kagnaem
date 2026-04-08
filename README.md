@@ -14,6 +14,18 @@ I bring hands-on experience across nonprofit, legal, and commercial environments
 
 ---
 
+
+## 🗂️ Repository Structure
+
+To keep projects easy to review, the portfolio is organized across dedicated repositories:
+
+- `data-analytics-portfolio` (central hub + CV + featured links)
+- `data-pipeline-projects`
+- `azure-fabric-analytics`
+- `google-data-analytics`
+- `powerbi-analytics-projects`
+- `excel-analytics-projects`
+
 ## 📊 Data Project Portfolio
 
 This portfolio showcases selected projects in:
