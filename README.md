@@ -65,22 +65,7 @@ Projects exploring workflow improvement, structured operations, and automation-o
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
 - [view repository](https://github.com/kagnaem/Process-Workflow-Automation)
 
-## Selected Project Themes
-
-### Predictive Modelling
-- classification projects for loan and churn prediction
-- regression projects for house price modelling
-- forecasting work using time-series methods such as ARIMA
-
-### Dashboard and Reporting Projects
-- Microsoft Fabric and Power BI reporting workflows
-- Looker Studio dashboards backed by BigQuery
-- project write-ups designed to be readable directly on GitHub
-
-### Data Preparation and Analysis
-- exploratory data analysis in Python
-- SQL-based transformation and summary tables
-- workflow design for cleaner, more reliable reporting outputs
+---
 
 ## Currently Exploring
 
