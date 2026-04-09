@@ -26,6 +26,7 @@ Highlighted work includes:
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
+- [donor behavior analysis and forecasting for a not-for-profit organization](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation/blob/main/README.md)
 
 ### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
 Global temperature analysis using Google BigQuery and Looker Studio.
@@ -42,13 +43,6 @@ This repository combines:
 - [trade data preparation and analysis](https://github.com/kagnaem/NZ-International-Trade)
 - [cross-source integration](https://github.com/kagnaem/NZ-International-Trade)
 - [visual reporting and project documentation](https://github.com/kagnaem/NZ-International-Trade/blob/main/README.md)
-
-### [Data-Modeling-Dashboard-Automation](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
-Projects focused on data modelling, dashboard-oriented preparation, and automation workflows for reporting and analytics.
-- [view repository](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
-- [read donor analytics project overview](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation/blob/main/README.md)
-
-This repository includes a real-world not-for-profit analytics project shared in an anonymized form to protect organizational privacy while still showing the modelling, dashboard, and forecasting workflow.
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
 Projects exploring workflow improvement, process automation, and structured data operations.
