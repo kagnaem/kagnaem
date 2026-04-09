@@ -1,12 +1,12 @@
-# Kagna Em
+# About Me
 
 Data Analyst focused on turning data into clear, useful insights through analysis, reporting, visualisation, and predictive modelling.
 
 I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Looker Studio, with a strong interest in projects that connect technical analysis to practical business or social outcomes.
 
 [View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)  
-[Portfolio Site](https://sites.google.com/view/kagna-dataprojects/home)  
 [LinkedIn](https://www.linkedin.com/in/kagna-em)
+[My webSite](https://sites.google.com/view/kagna-dataprojects/home)  
 
 ## What I Work On
 
