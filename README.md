@@ -22,32 +22,34 @@ I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Look
 Machine learning and analytics notebooks built in Microsoft Fabric and Python.
 
 Highlighted work includes:
-- bank loan prediction and model comparison
-- house price prediction with regression and Random Forest
-- sales forecasting with ARIMA
-- bank customer churn prediction
+- [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
+- [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
+- [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
+- [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
 
 ### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
 Global temperature analysis using Google BigQuery and Looker Studio.
 
 This project shows:
-- BigQuery data preparation with reporting tables and views
-- dashboard design in Looker Studio
-- global temperature comparison, trend analysis, and 10-year change mapping
+- [BigQuery data preparation with reporting tables and views](https://github.com/kagnaem/Google-Analytics/blob/main/GlobalTempGSOT.ipynb)
+- [dashboard design in Looker Studio](https://github.com/kagnaem/Google-Analytics/blob/main/README.md)
+- [global temperature comparison, trend analysis, and 10-year change mapping](https://github.com/kagnaem/Google-Analytics/blob/main/INSIGHTS_REPORT.md)
 
 ### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
 International trade analysis focused on New Zealand using Python, Power BI, Excel, and earlier project work in Access.
 
 This repository combines:
-- trade data preparation and analysis
-- cross-source integration
-- visual reporting and project documentation
+- [trade data preparation and analysis](https://github.com/kagnaem/NZ-International-Trade)
+- [cross-source integration](https://github.com/kagnaem/NZ-International-Trade)
+- [visual reporting and project documentation](https://github.com/kagnaem/NZ-International-Trade/blob/main/README.md)
 
 ### [Data-Modeling-Dashboard-Automation](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
 Projects focused on data modelling, dashboard-oriented preparation, and automation workflows for reporting and analytics.
+- [View repository](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
 Projects exploring workflow improvement, process automation, and structured data operations.
+- [View repository](https://github.com/kagnaem/Process-Workflow-Automation)
 
 ## Selected Project Themes
 
