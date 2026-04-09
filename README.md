@@ -18,7 +18,7 @@ I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Look
 
 ## Featured Repositories
 
-## Azure and Fabric Projects
+## ☁️ Azure and Fabric Projects
 Cloud analytics, machine learning notebooks, and forecasting workflows built with Microsoft Fabric and Python.
 
 ### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
@@ -29,7 +29,7 @@ Cloud analytics, machine learning notebooks, and forecasting workflows built wit
 
 ---
 
-## Donor Analytics Project
+## ❤️ Donor Analytics Project
 Real-world donor behaviour, segmentation, dashboarding, and forecasting shared in anonymized form for privacy.
 
 ### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
@@ -39,7 +39,7 @@ Real-world donor behaviour, segmentation, dashboarding, and forecasting shared i
 
 ---
 
-## Google Analytics Projects
+## 🌍 Google Analytics Projects
 BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and visual storytelling.
 
 ### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
@@ -49,7 +49,7 @@ BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and v
 
 ---
 
-## Trade and Economic Analysis
+## 📈 Trade and Economic Analysis
 Python-based analysis of international trade data supported by documentation, spreadsheets, and project papers.
 
 ### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
@@ -59,7 +59,7 @@ Python-based analysis of international trade data supported by documentation, sp
 
 ---
 
-## Workflow and Automation
+## ⚙️ Workflow and Automation
 Projects exploring workflow improvement, structured operations, and automation-oriented problem solving.
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
