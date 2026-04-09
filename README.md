@@ -18,42 +18,52 @@ I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Look
 
 ## Featured Repositories
 
-### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
-Machine learning and analytics notebooks built in Microsoft Fabric and Python.
+## Azure and Fabric Projects
+Cloud analytics, machine learning notebooks, and forecasting workflows built with Microsoft Fabric and Python.
 
-Highlighted work includes:
+### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
 - [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
 
-### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
-A real-world donor analytics and forecasting project shared in anonymized form.
+---
 
-This project includes:
-- [donor behavior analysis](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
-- [RFM segmentation and donor mapping](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
+## Donor Analytics Project
+Real-world donor behaviour, segmentation, dashboarding, and forecasting shared in anonymized form for privacy.
+
+### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
+- [project overview](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
+- [donor behavior analysis, RFM segmentation, and donor mapping](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
 - [Microsoft Fabric pipeline, Power BI dashboards, and forecast model comparison](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
 
-### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
-Global temperature analysis using Google BigQuery and Looker Studio.
+---
 
-This project shows:
-- [Global Temperature Project Document](https://github.com/kagnaem/Google-Analytics/blob/main/README.md)
-- [global temperature insights report only](https://github.com/kagnaem/Google-Analytics/blob/main/INSIGHTS_REPORT.md)
+## Google Analytics Projects
+BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and visual storytelling.
+
+### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
+- [global temperature project document](https://github.com/kagnaem/Google-Analytics/blob/main/README.md)
+- [global temperature insights report](https://github.com/kagnaem/Google-Analytics/blob/main/INSIGHTS_REPORT.md)
 - [BigQuery data preparation with reporting tables and views](https://github.com/kagnaem/Google-Analytics/blob/main/GlobalTempGSOT.ipynb)
 
-### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
-International trade analysis focused on New Zealand using Python, Power BI, Excel, and earlier project work in Access.
+---
 
-This repository combines:
-- [trade data preparation and analysis](https://github.com/kagnaem/NZ-International-Trade)
-- [cross-source integration](https://github.com/kagnaem/NZ-International-Trade)
-- [visual reporting and project documentation](https://github.com/kagnaem/NZ-International-Trade/blob/main/README.md)
+## Trade and Economic Analysis
+Python-based analysis of international trade data supported by documentation, spreadsheets, and project papers.
+
+### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
+- [trade notebook and exploratory analysis](https://github.com/kagnaem/NZ-International-Trade/blob/main/NZ%20IntTrade_Analysis.ipynb)
+- [project overview and documentation](https://github.com/kagnaem/NZ-International-Trade/blob/main/README.md)
+- [full project paper](https://github.com/kagnaem/NZ-International-Trade/blob/main/Em%202024%20New%20Zealand%20International%20Trade%20-Part1-3.pdf)
+
+---
+
+## Workflow and Automation
+Projects exploring workflow improvement, structured operations, and automation-oriented problem solving.
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
-Projects exploring workflow improvement, process automation, and structured data operations.
-- [View repository](https://github.com/kagnaem/Process-Workflow-Automation)
+- [view repository](https://github.com/kagnaem/Process-Workflow-Automation)
 
 ## Selected Project Themes
 
