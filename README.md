@@ -1,150 +1,96 @@
-# 👩‍💻 Kagna Em – Data Analyst 📊
+# Kagna Em
 
-Hi, I’m Kagna — a Data Analyst passionate about turning large, complex data into clear, actionable insights.
+Data Analyst focused on turning data into clear, useful insights through analysis, reporting, visualisation, and predictive modelling.
 
-I bring hands-on experience across nonprofit, legal, and commercial environments, where I use data to support decision-making, improve processes, and uncover meaningful patterns.
+I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Looker Studio, with a strong interest in projects that connect technical analysis to practical business or social outcomes.
 
-💡 I enjoy working at the intersection of **data, business impact, and real-world outcomes**.
+[View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)  
+[Portfolio Site](https://sites.google.com/view/kagna-dataprojects/home)  
+[LinkedIn](https://www.linkedin.com/in/kagna-em)
 
----
+## What I Work On
 
-📄 **[View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)**  
-🌐 **[View My Site](https://sites.google.com/view/kagna-dataprojects/home)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/kagna-em)**  
+- Data analysis and reporting
+- Forecasting and predictive modelling
+- Dashboarding and data storytelling
+- Data transformation and workflow improvement
+- Cloud-based analytics using Azure and Google Cloud
 
----
+## Featured Repositories
 
-## 📊 Data Project Portfolio
+### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
+Machine learning and analytics notebooks built in Microsoft Fabric and Python.
 
-This portfolio showcases selected projects in:
-- Data analysis and reporting  
-- Forecasting and predictive modelling  
-- Data modelling and transformation  
-- Workflow and data quality improvement  
+Highlighted work includes:
+- bank loan prediction and model comparison
+- house price prediction with regression and Random Forest
+- sales forecasting with ARIMA
+- bank customer churn prediction
 
-Each project reflects how data can be used to solve real-world problems and support better decision-making.
+### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
+Global temperature analysis using Google BigQuery and Looker Studio.
 
----
+This project shows:
+- BigQuery data preparation with reporting tables and views
+- dashboard design in Looker Studio
+- global temperature comparison, trend analysis, and 10-year change mapping
 
-## 📁 Featured Projects
+### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
+International trade analysis focused on New Zealand using Python, Power BI, Excel, and earlier project work in Access.
 
-### 📌 Donation Forecasting & Reporting  
-**Tools:** Python (Prophet), Power BI, Microsoft Fabric, Microsoft Dynamics 365 CRM  
+This repository combines:
+- trade data preparation and analysis
+- cross-source integration
+- visual reporting and project documentation
 
-- Built a forecasting model to analyse donation trends and predict future performance  
-- Developed interactive dashboards to support planning and reporting  
-- Designed data pipelines in Microsoft Fabric for automated data refresh  
+### [Data-Modeling-Dashboard-Automation](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
+Projects focused on data modelling, dashboard-oriented preparation, and automation workflows for reporting and analytics.
 
-👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/DATA%20INSIGHTS-NOT%20FOR%20PROFIT%20ORGANIZATION.pdf)**
+### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
+Projects exploring workflow improvement, process automation, and structured data operations.
 
----
-### 🏡 House Price Prediction (Regression & Model Comparison)
+## Selected Project Themes
 
-End-to-end analysis of housing data from Azure Blob Storage using Python, covering data extraction, exploratory data analysis (EDA), and predictive modelling.
+### Predictive Modelling
+- classification projects for loan and churn prediction
+- regression projects for house price modelling
+- forecasting work using time-series methods such as ARIMA
 
-- Performed **EDA** to identify key drivers of house prices, including **Square_Feet** and **Num_Bedrooms**
-- Visualised relationships using scatter plots, histograms, boxplots, and correlation heatmaps
-- Built and compared **Multiple Linear Regression** and **Random Forest** models
-- Evaluated model performance using **RMSE** and **R²**
-- Identified that **Linear Regression outperformed Random Forest**, indicating largely linear relationships in the dataset
-- Provided recommendations to improve model performance, including additional features and model validation techniques
+### Dashboard and Reporting Projects
+- Microsoft Fabric and Power BI reporting workflows
+- Looker Studio dashboards backed by BigQuery
+- project write-ups designed to be readable directly on GitHub
 
+### Data Preparation and Analysis
+- exploratory data analysis in Python
+- SQL-based transformation and summary tables
+- workflow design for cleaner, more reliable reporting outputs
 
-👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)**
+## Currently Exploring
 
----
+- advanced Power BI and DAX
+- end-to-end Microsoft Fabric pipelines
+- cloud analytics in Azure and Google Cloud
+- data engineering concepts and scalable workflows
+- responsible and practical uses of AI in data work
 
-## 🏦 Loan Default Prediction (Classification & Model Comparison)
+## Goals
 
-End-to-end loan risk analysis using Python and PySpark in Microsoft Fabric.
+I am actively building a portfolio that reflects practical data analysis, cloud analytics, and business-focused reporting. I am especially interested in opportunities where I can:
 
-- Conducted EDA to identify key drivers (loan-to-income ratio, interest rate)  
-- Multiple models were implemented, including Logistic Regression, Random Forest, and Gradient Boosting  
-- Evaluated models using accuracy, confusion matrix, and F1-score  
-- Random Forest achieved the best overall performance  
-- Delivered insights to support data-driven lending decisions  
+- solve real business or community problems with data
+- work with modern analytics platforms and cloud tools
+- continue growing across analytics, data modelling, and data engineering
 
-👉 **[View Project](https://github.com/kagnaem/Portfolio/blob/main/ANZ_Bank_Loan_Prediction.ipynb)**
+## Beyond Data
 
----
+- Bilingual interpreter supporting communication across diverse communities
+- Member of the Upper Harbour Ethnic Advisory Group
 
-### 📊 Sales Data Analysis and Forecasting
+These experiences strengthen how I communicate findings, understand stakeholders, and present insights clearly to different audiences.
 
-End-to-end analysis of sales data from an Azure SQL Database using Python, covering data extraction, EDA, and time series forecasting (ARIMA Model).
+## Contact
 
-- Performed **EDA** to identify skewed product distribution and strong sales concentration in the **United Kingdom**
-- Pareto analysis shows a small number of markets drive the majority of sales 
-- Applied **ARIMA (12,1,1)** for forecasting and evaluated performance using **RMSE**  
-- Added **confidence intervals** to quantify forecast uncertainty  
- 
+- Email: kagnaem@gmail.com
 
-👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)**
-
----
-### 📌Exploratory Data Analysis with Python & Visualisation 
-
-This project highlights EDA using Python for basic operations, Pandas for data manipulation, and Matplotlib/Seaborn for visualizations. It focuses on analyzing data from Excel Spreadsheets and integrated multiple tables (e.g., Sales, Invoice, Product). Performed cleaning, transformation, and visualisation using Python (Pandas, Matplotlib, Seaborn) to identify trends, distributions, and correlations.
-
-👉 **[View Project file](https://github.com/kagnaem/Portfolio/blob/main/EDA_with_Sales_Dataset_using_Pandas_and%20Matplotlib_Seaborn.ipynb)**
-
----
-
-### 📌 Data Workflow & Reporting Improvement  
-**Tools:** Excel, Power Query  
-
-- Designed a structured workflow to clean, standardise, and validate data  
-- Improved reporting consistency and reduced manual processing  
-- Strengthened data accuracy through validation and reconciliation techniques  
-
-👉 [View Project](#)
-
----
-
-### 📌 Research Data Analysis (Policy & Social Impact)  
-**Tools:** Excel, Research Methods  
-
-- Conducted secondary data analysis for a UNICEF-supported study  
-- Integrated multiple data sources to generate insights on social outcomes  
-- Supported evidence-based policy recommendations  
-
-👉 [View Project](#)
-
----
-
-## 🔍 What I Am Exploring
-
-- Advanced Power BI and DAX for scalable and efficient reporting  
-- Microsoft Fabric for end-to-end data pipelines and analytics  
-- Data engineering concepts and big data workflows  
-- Cloud-based data platforms (Azure, Google Cloud)  
-- Ethical AI and cybersecurity in data and cloud environments  
-
----
-
-## 🎯 Goals
-
-I am actively working toward opportunities as a **Data Analyst**, while contributing to **data-driven and big data projects**.
-
-I’m particularly interested in roles where I can:
-- Apply data to solve real business or social problems  
-- Work with modern data platforms and cloud technologies  
-- Continue growing in analytics, data engineering, and responsible data practices  
-
----
-
-## 🌍 Beyond Data
-
-- Bilingual Interpreter – supporting communication across diverse communities  
-- Member – Upper Harbour Ethnic Advisory Group, contributing to community engagement and inclusion  
-
-These experiences strengthen my ability to **understand people, communicate insights clearly, and work across diverse stakeholders**.
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: kagnaem@gmail.com  
-
----
-
-⭐ *Thanks for visiting my GitHub portfolio — feel free to explore my projects!*
+Thanks for visiting my GitHub profile.
