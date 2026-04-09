@@ -45,7 +45,10 @@ This repository combines:
 
 ### [Data-Modeling-Dashboard-Automation](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
 Projects focused on data modelling, dashboard-oriented preparation, and automation workflows for reporting and analytics.
-- [View repository](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
+- [view repository](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation)
+- [read donor analytics project overview](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation/blob/main/README.md)
+
+This repository includes a real-world not-for-profit analytics project shared in an anonymized form to protect organizational privacy while still showing the modelling, dashboard, and forecasting workflow.
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
 Projects exploring workflow improvement, process automation, and structured data operations.
