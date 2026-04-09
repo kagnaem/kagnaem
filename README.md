@@ -31,9 +31,9 @@ Highlighted work includes:
 Global temperature analysis using Google BigQuery and Looker Studio.
 
 This project shows:
+- [Global Temperature Project Document](https://github.com/kagnaem/Google-Analytics/blob/main/README.md)
+- [global temperature insights report only](https://github.com/kagnaem/Google-Analytics/blob/main/INSIGHTS_REPORT.md)
 - [BigQuery data preparation with reporting tables and views](https://github.com/kagnaem/Google-Analytics/blob/main/GlobalTempGSOT.ipynb)
-- [dashboard design in Looker Studio](https://github.com/kagnaem/Google-Analytics/blob/main/README.md)
-- [global temperature comparison, trend analysis, and 10-year change mapping](https://github.com/kagnaem/Google-Analytics/blob/main/INSIGHTS_REPORT.md)
 
 ### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
 International trade analysis focused on New Zealand using Python, Power BI, Excel, and earlier project work in Access.
