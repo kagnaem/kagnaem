@@ -26,7 +26,7 @@ Highlighted work includes:
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
-- [donor behavior analysis and forecasting for a not-for-profit organization](https://github.com/kagnaem/Data-Modeling-Dashboard-Automation/blob/main/README.md)
+- [donor behavior analysis and forecasting for a not-for-profit organization](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
 
 ### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
 Global temperature analysis using Google BigQuery and Looker Studio.
