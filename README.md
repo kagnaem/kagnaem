@@ -6,7 +6,6 @@ I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Look
 
 [View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)  
 [LinkedIn](https://www.linkedin.com/in/kagna-em)
-
 [My webSite](https://kagnaem.github.io/)  
 
 ## What I Work On
