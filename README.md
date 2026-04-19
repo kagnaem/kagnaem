@@ -26,7 +26,7 @@ Cloud analytics, machine learning notebooks, and forecasting workflows built wit
 ### [Azure-parquet-analytics-on-fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
 - [project overview and architecture](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/README.md)
 - [Microsoft Fabric notebook for Silver-layer transformation](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/NYC_Taxi_Project.ipynb)
-- [NYC taxi dashboard and forecasting project using Azure Open Datasets, Parquet, Fabric, and Power BI](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
+- [dashboard summary, key figures, business takeaways, and forecasting notes](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/DASHBOARD_INSIGHTS.md)
 
 ### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
 - [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
