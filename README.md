@@ -21,7 +21,7 @@ I work across Python, SQL, Microsoft Fabric, Power BI, Google BigQuery, and Look
 ## Featured Repositories
 
 ## ☁️ Azure and Fabric Projects
-Cloud analytics, machine learning notebooks, and forecasting workflows built with Microsoft Fabric, Python and Power BI.
+Cloud analytics, large parquet files in Azure data ingestion and workflow pipeline, forecasting workflows built with Microsoft Fabric, Python and Power BI.
 
 ### [Azure-parquet-analytics-on-fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
 - [project overview and architecture](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/README.md)
