@@ -16,7 +16,7 @@ I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, a
 - Forecasting and predictive modelling
 - Dashboarding and data storytelling
 - Data transformation and workflow improvement
-- Cloud-based analytics using Azure and Google Cloud
+- Cloud-based analytics using modern platforms: Microsoft Fabric, Azure and Google Cloud.
 
 ## Featured Repositories
 
