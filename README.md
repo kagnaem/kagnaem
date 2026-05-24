@@ -36,7 +36,7 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
 
 ### [Billing-Exception-Reporting-Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
-- billing and exception reporting architecture redesign project across CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
+- real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
 - includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
 
