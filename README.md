@@ -35,8 +35,8 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
 
-### Billing Exception Reporting Architecture (anonymized, publishing in progress)
-- enterprise-style reporting architecture review across Power BI, semantic models, OneLake, and Microsoft Fabric
+### [Billing-Exception-Reporting-Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
+- anonymized enterprise-style reporting architecture review across Power BI, semantic models, OneLake, and Microsoft Fabric
 - dashboard navigation mapping, scenario-based exception analysis, and future-state Fabric design
 - focused on billing assurance, exception reporting, and revenue leakage investigation in a privacy-safe portfolio format
 
