@@ -23,6 +23,11 @@ I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, a
 ## ☁️ Azure and Fabric Projects
 End-to-end cloud analytics project using Azure Open Datasets, large Parquet ingestion, Microsoft Fabric pipelines, PySpark transformation, Power BI dashboards, and short-term forecasting.
 
+### [Billing-Exception-Reporting-Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
+- real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
+- focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
+- includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
+
 ### [Azure-parquet-analytics-on-fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
 - [project overview and architecture](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/README.md)
 - [Microsoft Fabric notebook for Silver-layer transformation](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/NYC_Taxi_Project.ipynb)
@@ -34,11 +39,6 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
-
-### [Billing-Exception-Reporting-Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
-- real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
-- focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
-- includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
 
 ---
 
