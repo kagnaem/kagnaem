@@ -21,14 +21,15 @@ I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, a
 ## Featured Repositories
 
 ## ☁️ Azure and Fabric Projects
-End-to-end cloud analytics project using Azure Open Datasets, large Parquet ingestion, Microsoft Fabric pipelines, PySpark transformation, Power BI dashboards, and short-term forecasting.
+
 
 ### [Billing-Exception-Reporting-Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
 - real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
 - includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
 
-### [NYC Yellow Taxi Analytics- Using Azure-parquet-analytics-on-fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
+### [NYC Yellow Taxi Analytics- Using Azure Lage Parquet Files and Data Analytics on Fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
+End-to-end cloud analytics project using Azure Open Datasets, large Parquet ingestion, Microsoft Fabric pipelines, PySpark transformation, Power BI dashboards, and short-term forecasting.
 - [project overview and architecture](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/README.md)
 - [Microsoft Fabric notebook for Silver-layer transformation](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/NYC_Taxi_Project.ipynb)
 - [dashboard insights, key figures, business takeaways, and forecasting notes](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/DASHBOARD_INSIGHTS.md)
