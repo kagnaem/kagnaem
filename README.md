@@ -83,7 +83,7 @@ Projects exploring workflow improvement, structured operations, and automation-o
 
 ## Currently Exploring
 
-- advanced Power BI and DAX
+- Machine Learning for Data Analytics
 - end-to-end Microsoft Fabric pipelines
 - cloud analytics in Azure and Google Cloud
 - data engineering concepts and scalable workflows
