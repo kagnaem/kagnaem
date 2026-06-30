@@ -23,7 +23,7 @@ I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, a
 ## ☁️ Azure and Fabric Data Projects
 
 
-### [Billing and Exceptions Reporting - Microsoft Fabric Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
+### [Billing and Exceptions Reporting - Microsoft Power BI & Fabric Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
 - real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
 - includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
