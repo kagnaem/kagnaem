@@ -4,11 +4,10 @@ Data Analyst focused on turning data into clear, useful insights through analysi
 
 I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, and Looker Studio, with a strong interest in projects that connect technical analysis to practical business or social outcomes.
 
-[View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf) 
+[View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)
 
-[My webSite](https://kagnaem.github.io/)  
+[My website](https://kagnaem.github.io/)
 [LinkedIn](https://www.linkedin.com/in/kagna-em)
-
 
 ## What I Work On
 
@@ -20,13 +19,18 @@ I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, a
 
 ## Featured Repositories
 
-## ☁️ Azure and Fabric Data Projects
-
+## Microsoft Fabric and Power BI Reporting Architecture
+Enterprise reporting architecture, semantic-model review, and Microsoft Fabric design focused on multi-platform billing and exception reporting.
 
 ### [Billing and Exceptions Reporting - Microsoft Power BI & Fabric Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
 - real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
 - includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
+
+---
+
+## Azure and Fabric Analytics Projects
+Cloud analytics, machine learning notebooks, and forecasting workflows built with Azure, Microsoft Fabric, Python, and Power BI.
 
 ### [NYC Yellow Taxi Analytics- Using Azure Lage Parquet Files and Data Analytics on Fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
 End-to-end cloud analytics project using Azure Open Datasets, large Parquet ingestion, Microsoft Fabric pipelines, PySpark transformation, Power BI dashboards, and short-term forecasting.
@@ -43,7 +47,7 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 
 ---
 
-## ❤️ Donor Analytics Project
+## Donor Analytics Project
 Real-world donor behaviour, segmentation, dashboarding, and forecasting shared in anonymized form for privacy.
 
 ### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
@@ -53,7 +57,7 @@ Real-world donor behaviour, segmentation, dashboarding, and forecasting shared i
 
 ---
 
-## 🌍 Google Analytics Projects
+## Google Analytics Projects
 BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and visual storytelling.
 
 ### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
@@ -63,7 +67,7 @@ BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and v
 
 ---
 
-## 📈 Trade and Economic Analysis
+## Trade and Economic Analysis
 Python-based analysis of international trade data supported by documentation, spreadsheets, and project papers.
 
 ### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
@@ -73,7 +77,7 @@ Python-based analysis of international trade data supported by documentation, sp
 
 ---
 
-## ⚙️ Workflow and Automation
+## Workflow and Automation
 Projects exploring workflow improvement, structured operations, and automation-oriented problem solving.
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
