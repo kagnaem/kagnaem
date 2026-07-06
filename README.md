@@ -27,6 +27,11 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
 - includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
 
+### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
+- [project overview](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
+- real-world donor behaviour, segmentation, dashboarding, and forecasting shared in anonymized form for privacy
+- includes Microsoft Fabric pipeline design, Power BI dashboards, and business-focused analytics outputs
+
 ---
 
 ## Azure and Fabric Analytics Projects
@@ -44,16 +49,6 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
 - [bank customer churn prediction](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_Bank_Customer_Churn.ipynb)
-
----
-
-## Donor Analytics Project
-Real-world donor behaviour, segmentation, dashboarding, and forecasting shared in anonymized form for privacy.
-
-### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
-- [project overview](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
-- [donor behavior analysis, RFM segmentation, and donor mapping](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
-- [Microsoft Fabric pipeline, Power BI dashboards, and forecast model comparison](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
 
 ---
 
