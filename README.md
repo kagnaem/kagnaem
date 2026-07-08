@@ -106,6 +106,12 @@ I am actively building a portfolio that reflects practical data analysis, cloud 
 
 These experiences strengthen how I communicate findings, understand stakeholders, and present insights clearly to different audiences.
 
+## Business and Ecommerce Experience
+
+Alongside my analytics work, I oversee [Daily Mart](https://dailymart.co.nz/), a New Zealand ecommerce store focused on everyday wellness, smart living, groceries, gifts, eco home products, and daily essentials.
+
+This experience strengthens my practical understanding of business operations, customer behaviour, product management, digital commerce, and performance reporting.
+
 ## Contact
 
 - Email: kagnaem@gmail.com
