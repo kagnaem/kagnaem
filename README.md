@@ -23,6 +23,10 @@ I bridge business, IT, and data teams by communicating effectively with both tec
 ## Featured Projects/Repositories
 
 ## Microsoft Fabric and Power BI Reporting Architecture
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Pipelines-F2C811)
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811)
+![Analytics Engineering](https://img.shields.io/badge/Analytics%20Engineering-Semantic%20Models-2F80ED)
+
 Enterprise reporting architecture, semantic-model review, and Microsoft Fabric design focused on multi-platform billing and exception reporting.
 
 ### [Billing and Exceptions Reporting - Microsoft Power BI & Fabric Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
@@ -38,6 +42,11 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 ---
 
 ## Azure and Fabric Analytics Projects
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Analytics-0078D4)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-F2C811)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811)
+
 Cloud analytics, machine learning notebooks, and forecasting workflows built with Azure, Microsoft Fabric, Python, and Power BI.
 
 ### [NYC Yellow Taxi Analytics- Using Azure Lage Parquet Files and Data Analytics on Fabric](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric)
@@ -56,6 +65,10 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 ---
 
 ## Google Analytics Projects
+![BigQuery](https://img.shields.io/badge/BigQuery-SQL%20Analytics-4285F4)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Visualisation-34A853)
+![SQL](https://img.shields.io/badge/SQL-Data%20Preparation-336791)
+
 BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and visual storytelling.
 
 ### [Google-Analytics](https://github.com/kagnaem/Google-Analytics)
@@ -66,6 +79,10 @@ BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and v
 ---
 
 ## Trade and Economic Analysis
+![Python](https://img.shields.io/badge/Python-EDA-3776AB)
+![Excel](https://img.shields.io/badge/Excel-Analysis-217346)
+![Economic Analysis](https://img.shields.io/badge/Economic%20Analysis-Trade%20Data-7B61FF)
+
 Python-based analysis of international trade data supported by documentation, spreadsheets, and project papers.
 
 ### [NZ-International-Trade](https://github.com/kagnaem/NZ-International-Trade)
@@ -76,6 +93,9 @@ Python-based analysis of international trade data supported by documentation, sp
 ---
 
 ## Workflow and Automation
+![Workflow](https://img.shields.io/badge/Workflow-Process%20Improvement-FF6F00)
+![Automation](https://img.shields.io/badge/Automation-Operations-00A676)
+
 Projects exploring workflow improvement, structured operations, and automation-oriented problem solving.
 
 ### [Process-Workflow-Automation](https://github.com/kagnaem/Process-Workflow-Automation)
