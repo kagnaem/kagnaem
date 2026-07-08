@@ -7,6 +7,7 @@ I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Excel, Google BigQ
 [View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)
 
 [My website](https://kagnaem.github.io/)
+
 [LinkedIn](https://www.linkedin.com/in/kagna-em)
 
 ## What I Work On
