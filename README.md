@@ -20,7 +20,7 @@ I bridge business, IT, and data teams by communicating effectively with both tec
 - Retail and e-commerce performance analytics
 - Cloud-based analytics using modern platforms: Microsoft Fabric, Azure and Google Cloud.
 
-## Featured Repositories
+## Featured Projects/Repositories
 
 ## Microsoft Fabric and Power BI Reporting Architecture
 Enterprise reporting architecture, semantic-model review, and Microsoft Fabric design focused on multi-platform billing and exception reporting.
