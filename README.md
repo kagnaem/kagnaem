@@ -26,7 +26,7 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 ### [Billing and Exceptions Reporting - Microsoft Power BI & Fabric Architecture](https://github.com/kagnaem/Billing-Exception-Reporting-Architecture)
 - real-world billing and exception reporting architecture redesign project for a large telecom service provider using CRM, Datagate, ServiceNow, SAP, SharePoint, and Microsoft Fabric
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
-- includes Power BI transformation and modelling patterns for billing and exception reporting across multiple platforms
+- Enhanced Power BI reporting by improving DAX calculations, data transformation and modelling, and report visualizations, delivering more accurate and efficient billing and exception reporting across multiple business platforms.
 
 ### [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
 - [project overview](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
