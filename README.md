@@ -1,5 +1,9 @@
 # About Me
-Data Analyst with experience spanning data analytics, analytics engineering, and business intelligence. I build reliable data solutions across the end-to-end analytics lifecycle—from data preparation, modelling, and transformation through to reporting, visualisation, and insights. Skilled in Python, SQL, Azure, Microsoft Fabric, Power BI, Excel, Google BigQuery, and Looker Studio, I bridge business, IT, and data by communicating effectively with both technical and non-technical stakeholders to deliver practical, data-driven outcomes.
+Data Analyst with experience across data analytics, analytics engineering, and business intelligence. I build reliable data solutions across the end-to-end analytics lifecycle, from data preparation, modelling, and transformation to reporting, visualisation, and insight generation.
+
+I work with Python, SQL, Microsoft Fabric, Power BI, Excel, Google BigQuery, and Looker Studio to transform raw data into clear, practical outputs.
+
+I bridge business, IT, and data teams by communicating effectively with both technical and non-technical stakeholders to deliver useful, data-driven outcomes.
 
 [View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)
 
