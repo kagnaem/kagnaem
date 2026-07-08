@@ -2,7 +2,7 @@
 
 Data Analyst focused on turning data into clear, useful insights through analysis, reporting, visualisation, and predictive modelling.
 
-I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Google BigQuery, and Looker Studio, with a strong interest in projects that connect technical analysis to practical business or social outcomes.
+I work across Python, SQL, Azure, Microsoft Fabric, Power BI, Excel, Google BigQuery, and Looker Studio, with a strong interest in projects that connect technical analysis to practical business or social outcomes.
 
 [View My CV](https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf)
 
