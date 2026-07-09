@@ -73,7 +73,7 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 ![Business Operations](https://img.shields.io/badge/Business%20Operations-Product%20%26%20Customers-00A676)
 ![Performance Analytics](https://img.shields.io/badge/Performance%20Analytics-Retail%20Insights-7B61FF)
 
-Alongside my analytics work, I act as Operations Lead for [Daily Mart](https://dailymart.co.nz/), a small New Zealand ecommerce platform promoting local and eco-friendly products.
+Alongside my analytics work, I acted as Operations Lead for [Daily Mart](https://dailymart.co.nz/), a small New Zealand ecommerce platform promoting local and eco-friendly products.
 
 - Launched and managed the ecommerce platform, overseeing product listings, pricing, promotions, and customer enquiries.
 - Analysed sales trends and customer behaviour to optimise product placement, promotional activity, and overall store performance.
