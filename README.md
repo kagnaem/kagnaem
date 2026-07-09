@@ -13,8 +13,6 @@ I bridge business, IT, and data teams by communicating effectively with both tec
   <a href="https://www.linkedin.com/in/kagna-em"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kagna%20Em-0A66C2"></a>
 </p>
 
-<p><img alt="Profile views" src="https://komarev.com/ghpvc/?username=kagnaem&label=Profile%20views&color=2F80ED&style=flat"></p>
-
 ## What I Work On
 
 - Data analysis and reporting
@@ -138,3 +136,5 @@ These experiences strengthen how I communicate findings, understand stakeholders
 - Email: kagnaem@gmail.com
 
 Thanks for visiting my GitHub profile.
+
+<p><img alt="Profile views" src="https://komarev.com/ghpvc/?username=kagnaem&label=Profile%20views&color=2F80ED&style=flat"></p>
