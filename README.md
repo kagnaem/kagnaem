@@ -1,10 +1,10 @@
 # About Me
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Insights%20%26%20Reporting-2F80ED)
-![Analytics Engineering](https://img.shields.io/badge/Analytics%20Engineering-Data%20Models-7B61FF)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB)
-![SQL](https://img.shields.io/badge/SQL-Data%20Transformation-336791)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-End--to--End%20Analytics-F2C811)
+<img alt="Data Analyst" src="https://img.shields.io/badge/Data%20Analyst-Insights%20%26%20Reporting-2F80ED">
+<img alt="Analytics Engineering" src="https://img.shields.io/badge/Analytics%20Engineering-Data%20Models-7B61FF">
+<img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811">
+<img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Transformation-336791">
+<img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-End--to--End%20Analytics-F2C811">
 
 Data Analyst with experience across data analytics, analytics engineering, and business intelligence. I build reliable data solutions across the end-to-end analytics lifecycle, from data preparation, modelling, and transformation to reporting, visualisation, and insight generation.
 
@@ -30,9 +30,9 @@ I bridge business, IT, and data teams by communicating effectively with both tec
 ## Featured Projects/Repositories
 
 ## Microsoft Fabric and Power BI Reporting Architecture
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Pipelines-F2C811)
-![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811)
-![Analytics Engineering](https://img.shields.io/badge/Analytics%20Engineering-Semantic%20Models-2F80ED)
+<img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Pipelines-F2C811">
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Reporting-F2C811">
+<img alt="Analytics Engineering" src="https://img.shields.io/badge/Analytics%20Engineering-Semantic%20Models-2F80ED">
 
 Enterprise reporting architecture, semantic-model review, and Microsoft Fabric design focused on multi-platform billing and exception reporting.
 
@@ -49,10 +49,10 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 ---
 
 ## Azure and Fabric Analytics Projects
-![Azure](https://img.shields.io/badge/Azure-Cloud%20Analytics-0078D4)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-F2C811)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811)
+<img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud%20Analytics-0078D4">
+<img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-F2C811">
+<img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB">
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811">
 
 Cloud analytics, machine learning notebooks, and forecasting workflows built with Azure, Microsoft Fabric, Python, and Power BI.
 
@@ -64,9 +64,9 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [dashboard PDF summary](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/Quick%20summary%20NYC%20Taxi.pdf)
 
 ### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
-![Advanced Analytics](https://img.shields.io/badge/Advanced%20Analytics-Predictive%20Insights-7B61FF)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification%20%26%20Regression-FF6F00)
-![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA%20%26%20Trends-00A676)
+<img alt="Advanced Analytics" src="https://img.shields.io/badge/Advanced%20Analytics-Predictive%20Insights-7B61FF">
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-Classification%20%26%20Regression-FF6F00">
+<img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-ARIMA%20%26%20Trends-00A676">
 
 - [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
@@ -76,9 +76,9 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 ---
 
 ## Business and Ecommerce Experience
-![Ecommerce](https://img.shields.io/badge/Ecommerce-Daily%20Mart-FF6F00)
-![Business Operations](https://img.shields.io/badge/Business%20Operations-Product%20%26%20Customers-00A676)
-![Performance Analytics](https://img.shields.io/badge/Performance%20Analytics-Retail%20Insights-7B61FF)
+<img alt="Ecommerce" src="https://img.shields.io/badge/Ecommerce-Daily%20Mart-FF6F00">
+<img alt="Business Operations" src="https://img.shields.io/badge/Business%20Operations-Product%20%26%20Customers-00A676">
+<img alt="Performance Analytics" src="https://img.shields.io/badge/Performance%20Analytics-Retail%20Insights-7B61FF">
 
 Alongside my analytics work, I acted as Operations Lead for [Daily Mart](https://dailymart.co.nz/), a small New Zealand ecommerce platform promoting local and eco-friendly products.
 
@@ -89,9 +89,9 @@ Alongside my analytics work, I acted as Operations Lead for [Daily Mart](https:/
 ---
 
 ## Google Analytics Projects
-![BigQuery](https://img.shields.io/badge/BigQuery-SQL%20Analytics-4285F4)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Visualisation-34A853)
-![SQL](https://img.shields.io/badge/SQL-Data%20Preparation-336791)
+<img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-SQL%20Analytics-4285F4">
+<img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-Visualisation-34A853">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Preparation-336791">
 
 BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and visual storytelling.
 
@@ -103,9 +103,9 @@ BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and v
 ---
 
 ## Trade and Economic Analysis
-![Python](https://img.shields.io/badge/Python-EDA-3776AB)
-![Excel](https://img.shields.io/badge/Excel-Analysis-217346)
-![Economic Analysis](https://img.shields.io/badge/Economic%20Analysis-Trade%20Data-7B61FF)
+<img alt="Python" src="https://img.shields.io/badge/Python-EDA-3776AB">
+<img alt="Excel" src="https://img.shields.io/badge/Excel-Analysis-217346">
+<img alt="Economic Analysis" src="https://img.shields.io/badge/Economic%20Analysis-Trade%20Data-7B61FF">
 
 Python-based analysis of international trade data supported by documentation, spreadsheets, and project papers.
 
@@ -117,8 +117,8 @@ Python-based analysis of international trade data supported by documentation, sp
 ---
 
 ## Workflow and Automation
-![Workflow](https://img.shields.io/badge/Workflow-Process%20Improvement-FF6F00)
-![Automation](https://img.shields.io/badge/Automation-Operations-00A676)
+<img alt="Workflow" src="https://img.shields.io/badge/Workflow-Process%20Improvement-FF6F00">
+<img alt="Automation" src="https://img.shields.io/badge/Automation-Operations-00A676">
 
 Projects exploring workflow improvement, structured operations, and automation-oriented problem solving.
 
