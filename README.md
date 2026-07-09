@@ -1,4 +1,11 @@
 # About Me
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Insights%20%26%20Reporting-2F80ED)
+![Analytics Engineering](https://img.shields.io/badge/Analytics%20Engineering-Data%20Models-7B61FF)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB)
+![SQL](https://img.shields.io/badge/SQL-Data%20Transformation-336791)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-End--to--End%20Analytics-F2C811)
+
 Data Analyst with experience across data analytics, analytics engineering, and business intelligence. I build reliable data solutions across the end-to-end analytics lifecycle, from data preparation, modelling, and transformation to reporting, visualisation, and insight generation.
 
 I work with Python, SQL, Microsoft Fabric, Power BI, Excel, Google BigQuery, and Looker Studio to transform raw data into clear, practical outputs.
