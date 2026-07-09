@@ -68,6 +68,17 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 
 ---
 
+## Business and Ecommerce Experience
+![Ecommerce](https://img.shields.io/badge/Ecommerce-Daily%20Mart-FF6F00)
+![Business Operations](https://img.shields.io/badge/Business%20Operations-Product%20%26%20Customers-00A676)
+![Performance Analytics](https://img.shields.io/badge/Performance%20Analytics-Retail%20Insights-7B61FF)
+
+Alongside my analytics work, I oversee [Daily Mart](https://dailymart.co.nz/), a New Zealand ecommerce store focused on everyday wellness, smart living, groceries, gifts, eco home products, and daily essentials.
+
+This experience strengthens my practical understanding of business operations, customer behaviour, product management, digital commerce, and performance reporting.
+
+---
+
 ## Google Analytics Projects
 ![BigQuery](https://img.shields.io/badge/BigQuery-SQL%20Analytics-4285F4)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Visualisation-34A853)
@@ -129,12 +140,6 @@ I am actively building a portfolio that reflects practical data analysis, cloud 
 - Member of the Upper Harbour Ethnic Advisory Group
 
 These experiences strengthen how I communicate findings, understand stakeholders, and present insights clearly to different audiences.
-
-## Business and Ecommerce Experience
-
-Alongside my analytics work, I oversee [Daily Mart](https://dailymart.co.nz/), a New Zealand ecommerce store focused on everyday wellness, smart living, groceries, gifts, eco home products, and daily essentials.
-
-This experience strengthens my practical understanding of business operations, customer behaviour, product management, digital commerce, and performance reporting.
 
 ## Contact
 
