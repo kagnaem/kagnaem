@@ -57,6 +57,10 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [dashboard PDF summary](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/Quick%20summary%20NYC%20Taxi.pdf)
 
 ### [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
+![Advanced Analytics](https://img.shields.io/badge/Advanced%20Analytics-Predictive%20Insights-7B61FF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification%20%26%20Regression-FF6F00)
+![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA%20%26%20Trends-00A676)
+
 - [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
 - [sales forecasting with ARIMA](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/sales-data-analysis-forecasting-python-azure-sql.ipynb)
