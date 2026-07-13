@@ -34,7 +34,7 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 - focused on data ingestion, Lakehouse storage, Dataflow Gen2, Fabric pipelines, and end-to-end reporting flow improvement
 - Enhanced Power BI reporting by improving DAX calculations, data transformation and modelling, and report visualizations, delivering more accurate and efficient billing and exception reporting across multiple business platforms.
 
-### 📉 [Donor-Behavior-Analysis-Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
+### 📉 [Donor Behavior Analysis Forecasting](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting)
 - [project overview](https://github.com/kagnaem/Donor-Behavior-Analysis-Forecasting/blob/main/README.md)
 - real-world donor behaviour, segmentation, dashboarding, and forecasting shared in anonymized form for privacy
 - includes Microsoft Fabric pipeline design, Power BI dashboards, and business-focused analytics outputs
@@ -53,7 +53,7 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [dashboard insights, key figures, business takeaways, and forecasting notes](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/DASHBOARD_INSIGHTS.md)
 - [dashboard PDF summary](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/Quick%20summary%20NYC%20Taxi.pdf)
 
-### 🤖 [Azure-Fabric-Machine-Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
+### 🤖 [Azure Fabric Machine Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
 <p><a href="https://github.com/kagnaem"><img alt="Advanced Analytics" src="https://img.shields.io/badge/Advanced%20Analytics-Predictive%20Insights-7B61FF"></a> <a href="https://github.com/kagnaem"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-Classification%20%26%20Regression-FF6F00"></a> <a href="https://github.com/kagnaem"><img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-ARIMA%20%26%20Trends-00A676"></a></p>
 
 - [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
