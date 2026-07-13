@@ -126,8 +126,11 @@ I am actively building a portfolio that reflects practical data analysis, cloud 
 
 ## 🤝 Beyond Data
 
-- Bilingual interpreter supporting communication across diverse communities
-- Member of the Upper Harbour Ethnic Advisory Group
+<p><a href="https://github.com/kagnaem"><img alt="Bilingual Communication" src="https://img.shields.io/badge/Bilingual-Communication-7B61FF"></a> <a href="https://github.com/kagnaem"><img alt="Community Voice" src="https://img.shields.io/badge/Community-Voice-00A676"></a> <a href="https://github.com/kagnaem"><img alt="Stakeholder Understanding" src="https://img.shields.io/badge/Stakeholder-Understanding-FF6F00"></a></p>
+
+- 🌏 **Bilingual interpreter** supporting clear communication across diverse communities
+- 🤝 **Community contributor** as a member of the Upper Harbour Ethnic Advisory Group
+- 💬 **Cross-cultural communicator** who can translate context, not just words
 
 These experiences strengthen how I communicate findings, understand stakeholders, and present insights clearly to different audiences.
 
