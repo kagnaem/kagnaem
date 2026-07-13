@@ -136,3 +136,5 @@ These experiences strengthen how I communicate findings, understand stakeholders
 - Email: kagnaem@gmail.com
 
 Thanks for visiting my GitHub profile.
+
+<p><a href="https://github.com/kagnaem"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=kagnaem&label=Profile%20views&color=2F80ED&style=flat"></a></p>
