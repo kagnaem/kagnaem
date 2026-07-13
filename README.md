@@ -8,9 +8,9 @@ I work with Python, SQL, Microsoft Fabric, Power BI, Excel, Google BigQuery, and
 I bridge business, IT, and data teams by communicating effectively with both technical and non-technical stakeholders to deliver useful, data-driven outcomes.
 
 <p>
-  <a href="https://github.com/kagnaem/kagnaem/blob/main/Kagna_Em_CV.pdf"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-PDF-EA4335"></a>
-  <a href="https://kagnaem.github.io/"><img alt="My website" src="https://img.shields.io/badge/My%20Website-Portfolio-2F80ED"></a>
-  <a href="https://www.linkedin.com/in/kagna-em"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kagna%20Em-0A66C2"></a>
+  <img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-PDF-EA4335">
+  <img alt="My website" src="https://img.shields.io/badge/My%20Website-Portfolio-2F80ED">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kagna%20Em-0A66C2">
 </p>
 
 ## What I Work On
