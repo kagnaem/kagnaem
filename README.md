@@ -1,5 +1,5 @@
 # About Me
-<p><a href="https://github.com/kagnaem"><img alt="Data Analyst" src="https://img.shields.io/badge/Data%20Analyst-Insights%20%26%20Reporting-2F80ED"></a> <a href="https://github.com/kagnaem"><img alt="Analytics Engineering" src="https://img.shields.io/badge/Analytics%20Engineering-Data%20Models-7B61FF"></a> <a href="https://github.com/kagnaem"><img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811"></a> <a href="https://github.com/kagnaem"><img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB"></a> <a href="https://github.com/kagnaem"><img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Transformation-336791"></a> <a href="https://github.com/kagnaem"><img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-End--to--End%20Analytics-F2C811"></a></p>
+<p><img alt="Data Analyst" src="https://img.shields.io/badge/Data%20Analyst-Insights%20%26%20Reporting-2F80ED"> <img alt="Analytics Engineering" src="https://img.shields.io/badge/Analytics%20Engineering-Data%20Models-7B61FF"> <img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811"> <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB"> <img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Transformation-336791"> <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-End--to--End%20Analytics-F2C811"></p>
 
 Data Analyst with experience across data analytics, analytics engineering, and business intelligence. I build reliable data solutions across the end-to-end analytics lifecycle, from data preparation, modelling, and transformation to reporting, visualisation, and insight generation.
 
@@ -8,9 +8,9 @@ I work with Python, SQL, Microsoft Fabric, Power BI, Excel, Google BigQuery, and
 I bridge business, IT, and data teams by communicating effectively with both technical and non-technical stakeholders to deliver useful, data-driven outcomes.
 
 <p>
-  <a href="https://github.com/kagnaem"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-PDF-EA4335"></a>
-  <a href="https://github.com/kagnaem"><img alt="My website" src="https://img.shields.io/badge/My%20Website-Portfolio-2F80ED"></a>
-  <a href="https://github.com/kagnaem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kagna%20Em-0A66C2"></a>
+  <a href="https://github.com/kagnaem/kagnaem/raw/main/Kagna_Em_CV.pdf"><img alt="View CV" src="https://img.shields.io/badge/CV-Download%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://kagnaem.github.io/"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-Website-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kagna-em"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kagna%20Em-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 📊 What I Work On
@@ -25,7 +25,7 @@ I bridge business, IT, and data teams by communicating effectively with both tec
 ## 🗂️ Featured Projects/Repositories
 
 ## 🏗️ Microsoft Fabric and Power BI Reporting Architecture
-<p><a href="https://github.com/kagnaem"><img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Pipelines-F2C811"></a> <a href="https://github.com/kagnaem"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Reporting-F2C811"></a> <a href="https://github.com/kagnaem"><img alt="Analytics Engineering" src="https://img.shields.io/badge/Analytics%20Engineering-Semantic%20Models-2F80ED"></a></p>
+<p><img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Pipelines-F2C811"> <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Reporting-F2C811"> <img alt="Analytics Engineering" src="https://img.shields.io/badge/Analytics%20Engineering-Semantic%20Models-2F80ED"></p>
 
 Enterprise reporting architecture, semantic-model review, and Microsoft Fabric design focused on multi-platform billing and exception reporting.
 
@@ -42,7 +42,7 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 ---
 
 ## ☁️ Azure and Fabric Analytics Projects
-<p><a href="https://github.com/kagnaem"><img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud%20Analytics-0078D4"></a> <a href="https://github.com/kagnaem"><img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-F2C811"></a> <a href="https://github.com/kagnaem"><img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB"></a> <a href="https://github.com/kagnaem"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811"></a></p>
+<p><img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud%20Analytics-0078D4"> <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-F2C811"> <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB"> <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811"></p>
 
 Cloud analytics, machine learning notebooks, and forecasting workflows built with Azure, Microsoft Fabric, Python, and Power BI.
 
@@ -54,7 +54,7 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 - [dashboard PDF summary](https://github.com/kagnaem/Azure-parquet-analytics-on-fabric/blob/main/Quick%20summary%20NYC%20Taxi.pdf)
 
 ### 🤖 [Azure Fabric Machine Learning](https://github.com/kagnaem/Azure-Fabric-Machine-Learning)
-<p><a href="https://github.com/kagnaem"><img alt="Advanced Analytics" src="https://img.shields.io/badge/Advanced%20Analytics-Predictive%20Insights-7B61FF"></a> <a href="https://github.com/kagnaem"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-Classification%20%26%20Regression-FF6F00"></a> <a href="https://github.com/kagnaem"><img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-ARIMA%20%26%20Trends-00A676"></a></p>
+<p><img alt="Advanced Analytics" src="https://img.shields.io/badge/Advanced%20Analytics-Predictive%20Insights-7B61FF"> <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-Classification%20%26%20Regression-FF6F00"> <img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-ARIMA%20%26%20Trends-00A676"></p>
 
 - [bank loan prediction and model comparison](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/ANZ_Bank_Loan_Prediction.ipynb)
 - [house price prediction with regression and Random Forest](https://github.com/kagnaem/Azure-Fabric-Machine-Learning/blob/main/Predicting_House_Price_with_MLR_and_RandomForest.ipynb)
@@ -64,7 +64,7 @@ End-to-end cloud analytics project using Azure Open Datasets, large Parquet inge
 ---
 
 ## 🛒 Business and Ecommerce Experience
-<p><a href="https://github.com/kagnaem"><img alt="Ecommerce" src="https://img.shields.io/badge/Ecommerce-Daily%20Mart-FF6F00"></a> <a href="https://github.com/kagnaem"><img alt="Business Operations" src="https://img.shields.io/badge/Business%20Operations-Product%20%26%20Customers-00A676"></a> <a href="https://github.com/kagnaem"><img alt="Performance Analytics" src="https://img.shields.io/badge/Performance%20Analytics-Retail%20Insights-7B61FF"></a></p>
+<p><img alt="Ecommerce" src="https://img.shields.io/badge/Ecommerce-Daily%20Mart-FF6F00"> <img alt="Business Operations" src="https://img.shields.io/badge/Business%20Operations-Product%20%26%20Customers-00A676"> <img alt="Performance Analytics" src="https://img.shields.io/badge/Performance%20Analytics-Retail%20Insights-7B61FF"></p>
 
 Alongside my analytics work, I acted as Operations Lead for [Daily Mart](https://dailymart.co.nz/), a small New Zealand ecommerce platform promoting local and eco-friendly products.
 
@@ -75,7 +75,7 @@ Alongside my analytics work, I acted as Operations Lead for [Daily Mart](https:/
 ---
 
 ## 🔎 Google Analytics Projects
-<p><a href="https://github.com/kagnaem"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-SQL%20Analytics-4285F4"></a> <a href="https://github.com/kagnaem"><img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-Visualisation-34A853"></a> <a href="https://github.com/kagnaem"><img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Preparation-336791"></a></p>
+<p><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-SQL%20Analytics-4285F4"> <img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-Visualisation-34A853"> <img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Preparation-336791"></p>
 
 BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and visual storytelling.
 
@@ -87,7 +87,7 @@ BigQuery, SQL, and Looker Studio projects focused on cloud-based analytics and v
 ---
 
 ## 📊 Trade and Economic Analysis
-<p><a href="https://github.com/kagnaem"><img alt="Python" src="https://img.shields.io/badge/Python-EDA-3776AB"></a> <a href="https://github.com/kagnaem"><img alt="Excel" src="https://img.shields.io/badge/Excel-Analysis-217346"></a> <a href="https://github.com/kagnaem"><img alt="Economic Analysis" src="https://img.shields.io/badge/Economic%20Analysis-Trade%20Data-7B61FF"></a></p>
+<p><img alt="Python" src="https://img.shields.io/badge/Python-EDA-3776AB"> <img alt="Excel" src="https://img.shields.io/badge/Excel-Analysis-217346"> <img alt="Economic Analysis" src="https://img.shields.io/badge/Economic%20Analysis-Trade%20Data-7B61FF"></p>
 
 Python-based analysis of international trade data supported by documentation, spreadsheets, and project papers.
 
@@ -99,7 +99,7 @@ Python-based analysis of international trade data supported by documentation, sp
 ---
 
 ## ⚙️ Workflow and Automation
-<p><a href="https://github.com/kagnaem"><img alt="Workflow" src="https://img.shields.io/badge/Workflow-Process%20Improvement-FF6F00"></a> <a href="https://github.com/kagnaem"><img alt="Automation" src="https://img.shields.io/badge/Automation-Operations-00A676"></a></p>
+<p><img alt="Workflow" src="https://img.shields.io/badge/Workflow-Process%20Improvement-FF6F00"> <img alt="Automation" src="https://img.shields.io/badge/Automation-Operations-00A676"></p>
 
 Projects exploring workflow improvement, structured operations, and automation-oriented problem solving.
 
@@ -126,7 +126,7 @@ I am actively building a portfolio that reflects practical data analysis, cloud 
 
 ## 🤝 Beyond Data
 
-<p><a href="https://github.com/kagnaem"><img alt="Bilingual Communication" src="https://img.shields.io/badge/Bilingual-Communication-7B61FF"></a> <a href="https://github.com/kagnaem"><img alt="Community Voice" src="https://img.shields.io/badge/Community-Voice-00A676"></a> <a href="https://github.com/kagnaem"><img alt="Stakeholder Understanding" src="https://img.shields.io/badge/Stakeholder-Understanding-FF6F00"></a></p>
+<p><img alt="Bilingual Communication" src="https://img.shields.io/badge/Bilingual-Communication-7B61FF"> <img alt="Community Voice" src="https://img.shields.io/badge/Community-Voice-00A676"> <img alt="Stakeholder Understanding" src="https://img.shields.io/badge/Stakeholder-Understanding-FF6F00"></p>
 
 - 🌏 **Bilingual interpreter** supporting clear communication across diverse communities
 - 🤝 **Community contributor** as a member of the Upper Harbour Ethnic Advisory Group
@@ -140,4 +140,4 @@ These experiences strengthen how I communicate findings, understand stakeholders
 
 Thanks for visiting my GitHub profile.
 
-<p><a href="https://github.com/kagnaem"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=kagnaem&label=Profile%20views&color=2F80ED&style=flat"></a></p>
+<p><img alt="Profile views" src="https://komarev.com/ghpvc/?username=kagnaem&label=Profile%20views&color=2F80ED&style=flat"></p>
