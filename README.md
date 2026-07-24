@@ -9,7 +9,7 @@ I bridge business, IT, and data teams by communicating effectively with both tec
 
 <p>
   <a href="https://github.com/kagnaem/kagnaem/raw/main/Kagna_Em_CV.pdf"><img alt="View CV" src="https://img.shields.io/badge/CV-Download%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="https://kagnaem.github.io/"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-Website-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://kagnaem.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-kagnaem.github.io-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kagna-em"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kagna%20Em-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
