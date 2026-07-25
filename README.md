@@ -122,7 +122,7 @@ I am actively building a portfolio that reflects practical data analysis, cloud 
 
 - solve real business or community problems with data
 - work with modern analytics platforms and cloud tools
-- continue growing across analytics, data modelling, and data engineering
+- continue growing across data analytics, data modelling, and data engineering
 
 ## 🤝 Beyond Data
 
