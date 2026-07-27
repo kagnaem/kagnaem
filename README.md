@@ -41,6 +41,24 @@ Enterprise reporting architecture, semantic-model review, and Microsoft Fabric d
 
 ---
 
+## 🤖 Agentic AI and Support Analytics Project
+<p><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Support%20Analytics-F2C811"> <img alt="Python" src="https://img.shields.io/badge/Python-AI%20Agent-3776AB"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-Natural%20Language%20Queries-412991"> <img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-Read--only%20SQL-FFF000"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Deployed%20App-FF4B4B"></p>
+
+### [TechSolve Support Operations Analytics and AI Agent](https://github.com/kagnaem/Techsolve-AI-Agent)
+
+End-to-end practical project that turns synthetic technical-support ticket data into management reporting and a deployed natural-language analytics tool.
+
+- prepared and validated 2024–2025 ticket data with Power Query, including date checks, text cleaning, issue standardisation and privacy controls
+- enriched the analysis with New Zealand public holidays and regional historical weather data from external APIs
+- built a Power BI star schema, reusable DAX measures and dashboards covering demand, SLA performance, backlog, teams, regions, issue categories, holidays and weather
+- developed a Python agent that translates operational questions into validated, read-only DuckDB SQL using the OpenAI API
+- returns a plain-English answer together with the supporting result table and an appropriate line, donut or multi-colour bar chart
+- restricts queries to approved analytical tables, one `SELECT`/`WITH` statement and a maximum of 200 result rows
+
+**Explore:** [Live Streamlit app](https://techsolve-ai-agent-hluxmb69vkz3v4nhtqetzq.streamlit.app/) · [Source code and methodology](https://github.com/kagnaem/Techsolve-AI-Agent)
+
+---
+
 ## ☁️ Azure and Fabric Analytics Projects
 <p><img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud%20Analytics-0078D4"> <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-F2C811"> <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB"> <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811"></p>
 
