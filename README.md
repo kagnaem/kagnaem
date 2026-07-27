@@ -22,6 +22,7 @@ I bridge business, IT, and data teams by communicating effectively with both tec
 - Data transformation and workflow improvement.
 - Retail and e-commerce performance analytics
 - Cloud-based analytics using modern platforms: Microsoft Fabric, Azure and Google Cloud.
+- Agentic AI.
 
 ## 🗂️ Featured Projects/Repositories
 
